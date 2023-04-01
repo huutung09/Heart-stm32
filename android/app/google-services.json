@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725612664103",
+    "firebase_url": "https://heart-rate-c6264-default-rtdb.firebaseio.com",
+    "project_id": "heart-rate-c6264",
+    "storage_bucket": "heart-rate-c6264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725612664103:android:a4364c0c2775974a598502",
+        "android_client_info": {
+          "package_name": "com.heartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725612664103-rcgdprps0bkojsdrsnevlm8q7o1lubsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heartapp",
+            "certificate_hash": "ca8c16dec4c3eb8b20dfee953f3824cc19e2efd2"
+          }
+        },
+        {
+          "client_id": "725612664103-rvael2csklv5n440as455rb4s716cj5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFAJyr-Cb2lcvuLBdFLJGiJMp_5oBaxKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725612664103-rvael2csklv5n440as455rb4s716cj5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
